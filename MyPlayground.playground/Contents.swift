@@ -66,7 +66,7 @@ dayArray2
 
 dayArray2.insert("月", at:0)
 
-var adDic:[String:String] = ["国":"日本","都道府県":"神奈川県","市町村":"横浜"]
+var adDic:[String:Any] = ["国":"日本","都道府県":"神奈川県","市町村":"横浜"]
 
 var scoreDic3:[String:Int] = ["国語":30,"算数":40,"英語":60]
 
